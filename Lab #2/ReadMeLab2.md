@@ -7,9 +7,13 @@ Target variable: Amount
 Input features:
 
 Sales Person
+
 Country
+
 Product
+
 Date
+
 Boxes Shipped
 
 Problem description: The objective of this project is to predict the sales amount using historical chocolate sales data.
